@@ -13,12 +13,23 @@ Se ejecuta desde el terminal de la máquina.
 Todos los comandos que se mostrarán son en una terminal de linux.
 Hay que compilar todos los programas con el comando: javac nombreprograma.java
 Los programas a compilar son los siguientes:
+
 -Person.java
+
 -Compra.java
+
 -Producto.java
+
 -main.java
+
 -Serialize.java
+
+-Deserialize.java
+
+-Deserialize2.java
+
 Todos más el fichero file.txt deben estar en la misma carpeta.
+
 Una vez todo compilado, se ejecuta main.java con el comando siguiente: java main
 
 # Objetivo del Programa
