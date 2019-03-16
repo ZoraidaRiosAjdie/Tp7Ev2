@@ -1,0 +1,6 @@
+0-Manzana;Roja;1;redonda;6
+1-Tela;Rosa;5;algodon;1
+2-Champu;blanca;50;rosas;2
+3-Pizza;verduras;2;buitonni;4
+4-Helado;blanco;0;cartedor;6
+5-RopaInterior;encaje;2;VictoriaSecrets;100
