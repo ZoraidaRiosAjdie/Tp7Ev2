@@ -3,4 +3,4 @@
 2-Champu;blanca;50;rosas;2
 3-Pizza;verduras;2;buitonni;4
 4-Helado;blanco;0;cartedor;6
-5-RopaInterior;encaje;2;VictoriaSecrets;100
+5-RopaInterior;encaje;2;VictoriaSecrets;10
